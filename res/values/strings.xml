@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">CS Calculator</string>
+    <string name="C">C</string>
+    <string name="div">/</string>
+    <string name="mod">%</string>
+    <string name="mult">x</string>
+    <string name="del">x</string>
+    <string name="sqrt">sqrt</string>
+    <string name="DEL">DEL</string>
+</resources>
